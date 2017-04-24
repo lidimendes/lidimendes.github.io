@@ -86,8 +86,8 @@ function fixSizes() {
 	// 	$(this).css('padding-top', ($(this).parent().height() - $(this).height()) / 2);
 	// });
 
-  
-	$(".work-item-inside-content").each(function() {
-		$(this).css('margin-top', ($(this).parent().height() - $(this).height()) / 2);
-	});
+
+	// $(".work-item-inside-content").each(function() {
+	// 	$(this).css('margin-top', ($(this).parent().height() - $(this).height()) / 2);
+	// });
 }
