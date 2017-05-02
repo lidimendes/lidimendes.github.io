@@ -427,6 +427,13 @@ h1, h2, h3, h4, h5, h6, p {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
+.overlay hr{
+  max-width: 40%;
+  background-color: #fff;
+  height: 1px;
+  margin-bottom: 10px
+}
+
 .home-title h1 {
     font-family: 'Open Sans', sans-serif;
     font-size: 4rem;
